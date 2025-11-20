@@ -51,7 +51,7 @@ public class App {
         return "<html><head><title>Cloud With VarJosh</title></head>"
                 + "<body style='font-family: Arial; text-align:center; padding:30px;'>"
                 + "<h1>Cloud With VarJosh</h1>"
-                + "<p>Learn Cloud and DevOps with a cheeky demo.</p>"
+                + "<p>Your one-stop lab for hands-on Cloud and DevOps learning!</p>"
                 + "</body></html>";
     }
 
